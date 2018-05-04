@@ -1,4 +1,6 @@
 node_modules
+/app/
 app/
+app/*
 .gitignore
 .DS_Store
